@@ -136,6 +136,6 @@ El proyecto original fue desarrollado como parte de un desafío académico en co
 **2. Evolución Post-Cursado (Trabajo Individual):**
 Este repositorio representa una **versión extendida y optimizada** desarrollada individualmente por mí tras finalizar el curso con fines de portafolio profesional.
 * **Refactorización:** Reescritura del código Python para cumplir estándares profesionales (modularización y manejo de errores).
-* **Ingeniería:** Estructuración del repositorio y creación de documentación técnica detallada.
+* **Ingeniería:** Estructuración del repositorio y organización de la documentación técnica histórica.
 * **Pipeline:** Optimización del flujo de datos para este portafolio.
 
