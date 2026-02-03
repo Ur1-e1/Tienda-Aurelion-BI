@@ -1,0 +1,321 @@
+id_producto,nombre_producto,categoria,precio_unitario
+1,Arroz Aurelion,alimentos,2347
+2,Lavandina Aurelion,limpieza,4973
+3,Arroz Max,alimentos,4964
+4,Lavandina Max,limpieza,2033
+5,Arroz Ultra,alimentos,4777
+6,Lavandina Ultra,limpieza,4170
+7,Arroz Eco,alimentos,3269
+8,Lavandina Eco,limpieza,4218
+9,Arroz Bio,alimentos,3878
+10,Lavandina Bio,limpieza,4883
+11,Arroz Plus,alimentos,2053
+12,Lavandina Plus,limpieza,570
+13,Arroz Premium,alimentos,2383
+14,Lavandina Premium,limpieza,1723
+15,Arroz Clásico,alimentos,2538
+16,Lavandina Clásico,limpieza,4613
+17,Fideos Aurelion,alimentos,4834
+18,Detergente Limón Aurelion,limpieza,3444
+19,Fideos Max,alimentos,3251
+20,Detergente Limón Max,limpieza,1571
+21,Fideos Ultra,alimentos,272
+22,Detergente Limón Ultra,limpieza,2069
+23,Fideos Eco,alimentos,2380
+24,Detergente Limón Eco,limpieza,1305
+25,Fideos Bio,alimentos,4015
+26,Detergente Limón Bio,limpieza,1001
+27,Fideos Plus,alimentos,2502
+28,Detergente Limón Plus,limpieza,936
+29,Fideos Premium,alimentos,1868
+30,Detergente Limón Premium,limpieza,4875
+31,Fideos Clásico,alimentos,3409
+32,Detergente Limón Clásico,limpieza,2234
+33,Aceite Girasol Aurelion,alimentos,1255
+34,Jabón en Polvo Aurelion,limpieza,503
+35,Aceite Girasol Max,alimentos,4430
+36,Jabón en Polvo Max,limpieza,2559
+37,Aceite Girasol Ultra,alimentos,3196
+38,Jabón en Polvo Ultra,limpieza,1584
+39,Aceite Girasol Eco,alimentos,469
+40,Jabón en Polvo Eco,limpieza,1215
+41,Aceite Girasol Bio,alimentos,860
+42,Jabón en Polvo Bio,limpieza,1195
+43,Aceite Girasol Plus,alimentos,887
+44,Jabón en Polvo Plus,limpieza,2979
+45,Aceite Girasol Premium,alimentos,745
+46,Jabón en Polvo Premium,limpieza,3036
+47,Aceite Girasol Clásico,alimentos,2939
+48,Jabón en Polvo Clásico,limpieza,4462
+49,Leche Larga Vida Aurelion,alimentos,2512
+50,Jabón Líquido Ropa Aurelion,limpieza,727
+51,Leche Larga Vida Max,alimentos,1745
+52,Jabón Líquido Ropa Max,limpieza,2582
+53,Leche Larga Vida Ultra,alimentos,1664
+54,Jabón Líquido Ropa Ultra,limpieza,1592
+55,Leche Larga Vida Eco,alimentos,1407
+56,Jabón Líquido Ropa Eco,limpieza,2532
+57,Leche Larga Vida Bio,alimentos,4520
+58,Jabón Líquido Ropa Bio,limpieza,4752
+59,Leche Larga Vida Plus,alimentos,3612
+60,Jabón Líquido Ropa Plus,limpieza,4647
+61,Leche Larga Vida Premium,alimentos,4982
+62,Jabón Líquido Ropa Premium,limpieza,3848
+63,Leche Larga Vida Clásico,alimentos,4337
+64,Jabón Líquido Ropa Clásico,limpieza,3953
+65,Galletitas de Agua Aurelion,alimentos,2423
+66,Suavizante Aurelion,limpieza,1533
+67,Galletitas de Agua Max,alimentos,4719
+68,Suavizante Max,limpieza,2684
+69,Galletitas de Agua Ultra,alimentos,744
+70,Suavizante Ultra,limpieza,4061
+71,Galletitas de Agua Eco,alimentos,508
+72,Suavizante Eco,limpieza,3876
+73,Galletitas de Agua Bio,alimentos,1561
+74,Suavizante Bio,limpieza,2953
+75,Galletitas de Agua Plus,alimentos,3204
+76,Suavizante Plus,limpieza,4286
+77,Galletitas de Agua Premium,alimentos,4778
+78,Suavizante Premium,limpieza,4289
+79,Galletitas de Agua Clásico,alimentos,2420
+80,Suavizante Clásico,limpieza,1981
+81,Yerba Mate Aurelion,alimentos,2520
+82,Limpiador de Pisos Aurelion,limpieza,2394
+83,Yerba Mate Max,alimentos,1830
+84,Limpiador de Pisos Max,limpieza,1645
+85,Yerba Mate Ultra,alimentos,1856
+86,Limpiador de Pisos Ultra,limpieza,4090
+87,Yerba Mate Eco,alimentos,1679
+88,Limpiador de Pisos Eco,limpieza,2570
+89,Yerba Mate Bio,alimentos,1003
+90,Limpiador de Pisos Bio,limpieza,2902
+91,Yerba Mate Plus,alimentos,4690
+92,Limpiador de Pisos Plus,limpieza,2512
+93,Yerba Mate Premium,alimentos,2142
+94,Limpiador de Pisos Premium,limpieza,1418
+95,Yerba Mate Clásico,alimentos,1581
+96,Limpiador de Pisos Clásico,limpieza,4920
+97,Azúcar Aurelion,alimentos,872
+98,Desengrasante Cocina Aurelion,limpieza,2843
+99,Azúcar Max,alimentos,2430
+100,Desengrasante Cocina Max,limpieza,4854
+101,Azúcar Ultra,alimentos,4237
+102,Desengrasante Cocina Ultra,limpieza,4274
+103,Azúcar Eco,alimentos,4311
+104,Desengrasante Cocina Eco,limpieza,4348
+105,Azúcar Bio,alimentos,4385
+106,Desengrasante Cocina Bio,limpieza,4422
+107,Azúcar Plus,alimentos,4459
+108,Desengrasante Cocina Plus,limpieza,4496
+109,Azúcar Premium,alimentos,4533
+110,Desengrasante Cocina Premium,limpieza,4570
+111,Azúcar Clásico,alimentos,4607
+112,Desengrasante Cocina Clásico,limpieza,4644
+113,Harina 000 Aurelion,alimentos,4681
+114,Limpiavidrios Aurelion,limpieza,4718
+115,Harina 000 Max,alimentos,4755
+116,Limpiavidrios Max,limpieza,4792
+117,Harina 000 Ultra,alimentos,4829
+118,Limpiavidrios Ultra,limpieza,4866
+119,Harina 000 Eco,alimentos,4903
+120,Limpiavidrios Eco,limpieza,4940
+121,Harina 000 Bio,alimentos,4977
+122,Limpiavidrios Bio,limpieza,514
+123,Harina 000 Plus,alimentos,551
+124,Limpiavidrios Plus,limpieza,588
+125,Harina 000 Premium,alimentos,625
+126,Limpiavidrios Premium,limpieza,662
+127,Harina 000 Clásico,alimentos,699
+128,Limpiavidrios Clásico,limpieza,736
+129,Polenta Aurelion,alimentos,773
+130,Lustramuebles Aurelion,limpieza,810
+131,Polenta Max,alimentos,847
+132,Lustramuebles Max,limpieza,884
+133,Polenta Ultra,alimentos,921
+134,Lustramuebles Ultra,limpieza,958
+135,Polenta Eco,alimentos,995
+136,Lustramuebles Eco,limpieza,1032
+137,Polenta Bio,alimentos,1069
+138,Lustramuebles Bio,limpieza,1106
+139,Polenta Plus,alimentos,1143
+140,Lustramuebles Plus,limpieza,1180
+141,Polenta Premium,alimentos,1217
+142,Lustramuebles Premium,limpieza,1254
+143,Polenta Clásico,alimentos,1291
+144,Lustramuebles Clásico,limpieza,1328
+145,Lentejas Aurelion,alimentos,1365
+146,Quitamanchas Aurelion,limpieza,1402
+147,Lentejas Max,alimentos,1439
+148,Quitamanchas Max,limpieza,1476
+149,Lentejas Ultra,alimentos,1513
+150,Quitamanchas Ultra,limpieza,1550
+151,Lentejas Eco,alimentos,1587
+152,Quitamanchas Eco,limpieza,1624
+153,Lentejas Bio,alimentos,1661
+154,Quitamanchas Bio,limpieza,1698
+155,Lentejas Plus,alimentos,1735
+156,Quitamanchas Plus,limpieza,1772
+157,Lentejas Premium,alimentos,1809
+158,Quitamanchas Premium,limpieza,1846
+159,Lentejas Clásico,alimentos,1883
+160,Quitamanchas Clásico,limpieza,1920
+161,Atún al Natural Aurelion,alimentos,1957
+162,Insecticida Aurelion,limpieza,1994
+163,Atún al Natural Max,alimentos,2031
+164,Insecticida Max,limpieza,2068
+165,Atún al Natural Ultra,alimentos,2105
+166,Insecticida Ultra,limpieza,2142
+167,Atún al Natural Eco,alimentos,2179
+168,Insecticida Eco,limpieza,2216
+169,Atún al Natural Bio,alimentos,2253
+170,Insecticida Bio,limpieza,2290
+171,Atún al Natural Plus,alimentos,2327
+172,Insecticida Plus,limpieza,2364
+173,Atún al Natural Premium,alimentos,2401
+174,Insecticida Premium,limpieza,2438
+175,Atún al Natural Clásico,alimentos,2475
+176,Insecticida Clásico,limpieza,2512
+177,Jardinera Aurelion,alimentos,2549
+178,Desodorante Ambiente Aurelion,limpieza,2586
+179,Jardinera Max,alimentos,2623
+180,Desodorante Ambiente Max,limpieza,2660
+181,Jardinera Ultra,alimentos,2697
+182,Desodorante Ambiente Ultra,limpieza,2734
+183,Jardinera Eco,alimentos,2771
+184,Desodorante Ambiente Eco,limpieza,2808
+185,Jardinera Bio,alimentos,2845
+186,Desodorante Ambiente Bio,limpieza,2882
+187,Jardinera Plus,alimentos,2919
+188,Desodorante Ambiente Plus,limpieza,2956
+189,Jardinera Premium,alimentos,2993
+190,Desodorante Ambiente Premium,limpieza,3030
+191,Jardinera Clásico,alimentos,3067
+192,Desodorante Ambiente Clásico,limpieza,3104
+193,Mermelada Durazno Aurelion,alimentos,3141
+194,Papel Higiénico Aurelion,limpieza,3178
+195,Mermelada Durazno Max,alimentos,3215
+196,Papel Higiénico Max,limpieza,3252
+197,Mermelada Durazno Ultra,alimentos,3289
+198,Papel Higiénico Ultra,limpieza,3326
+199,Mermelada Durazno Eco,alimentos,3363
+200,Papel Higiénico Eco,limpieza,3400
+201,Mermelada Durazno Bio,alimentos,3437
+202,Papel Higiénico Bio,limpieza,3474
+203,Mermelada Durazno Plus,alimentos,3511
+204,Papel Higiénico Plus,limpieza,3548
+205,Mermelada Durazno Premium,alimentos,3585
+206,Papel Higiénico Premium,limpieza,3622
+207,Mermelada Durazno Clásico,alimentos,3659
+208,Papel Higiénico Clásico,limpieza,3696
+209,Dulce de Leche Aurelion,alimentos,3733
+210,Rollo de Cocina Aurelion,limpieza,3770
+211,Dulce de Leche Max,alimentos,3807
+212,Rollo de Cocina Max,limpieza,3844
+213,Dulce de Leche Ultra,alimentos,3881
+214,Rollo de Cocina Ultra,limpieza,3918
+215,Dulce de Leche Eco,alimentos,3955
+216,Rollo de Cocina Eco,limpieza,3992
+217,Dulce de Leche Bio,alimentos,4029
+218,Rollo de Cocina Bio,limpieza,4066
+219,Dulce de Leche Plus,alimentos,4103
+220,Rollo de Cocina Plus,limpieza,4140
+221,Dulce de Leche Premium,alimentos,4177
+222,Rollo de Cocina Premium,limpieza,4214
+223,Dulce de Leche Clásico,alimentos,4251
+224,Rollo de Cocina Clásico,limpieza,4288
+225,Café Molido Aurelion,alimentos,4325
+226,Servilletas Aurelion,limpieza,4362
+227,Café Molido Max,alimentos,4399
+228,Servilletas Max,limpieza,4436
+229,Café Molido Ultra,alimentos,4473
+230,Servilletas Ultra,limpieza,4510
+231,Café Molido Eco,alimentos,4547
+232,Servilletas Eco,limpieza,4584
+233,Café Molido Bio,alimentos,4621
+234,Servilletas Bio,limpieza,4658
+235,Café Molido Plus,alimentos,4695
+236,Servilletas Plus,limpieza,4732
+237,Café Molido Premium,alimentos,4769
+238,Servilletas Premium,limpieza,4806
+239,Café Molido Clásico,alimentos,4843
+240,Servilletas Clásico,limpieza,4880
+241,Té en Saquitos Aurelion,alimentos,4917
+242,Esponja Multiuso Aurelion,limpieza,4954
+243,Té en Saquitos Max,alimentos,4991
+244,Esponja Multiuso Max,limpieza,528
+245,Té en Saquitos Ultra,alimentos,565
+246,Esponja Multiuso Ultra,limpieza,602
+247,Té en Saquitos Eco,alimentos,639
+248,Esponja Multiuso Eco,limpieza,676
+249,Té en Saquitos Bio,alimentos,713
+250,Esponja Multiuso Bio,limpieza,750
+251,Té en Saquitos Plus,alimentos,787
+252,Esponja Multiuso Plus,limpieza,824
+253,Té en Saquitos Premium,alimentos,861
+254,Esponja Multiuso Premium,limpieza,898
+255,Té en Saquitos Clásico,alimentos,935
+256,Esponja Multiuso Clásico,limpieza,972
+257,Cacao en Polvo Aurelion,alimentos,1009
+258,Lana de Acero Aurelion,limpieza,1046
+259,Cacao en Polvo Max,alimentos,1083
+260,Lana de Acero Max,limpieza,1120
+261,Cacao en Polvo Ultra,alimentos,1157
+262,Lana de Acero Ultra,limpieza,1194
+263,Cacao en Polvo Eco,alimentos,1231
+264,Lana de Acero Eco,limpieza,1268
+265,Cacao en Polvo Bio,alimentos,1305
+266,Lana de Acero Bio,limpieza,1342
+267,Cacao en Polvo Plus,alimentos,1379
+268,Lana de Acero Plus,limpieza,1416
+269,Cacao en Polvo Premium,alimentos,1453
+270,Lana de Acero Premium,limpieza,1490
+271,Cacao en Polvo Clásico,alimentos,1527
+272,Lana de Acero Clásico,limpieza,1564
+273,Mayonesa Aurelion,alimentos,1601
+274,Trapo de Piso Aurelion,limpieza,1638
+275,Mayonesa Max,alimentos,1675
+276,Trapo de Piso Max,limpieza,1712
+277,Mayonesa Ultra,alimentos,1749
+278,Trapo de Piso Ultra,limpieza,1786
+279,Mayonesa Eco,alimentos,1823
+280,Trapo de Piso Eco,limpieza,1860
+281,Mayonesa Bio,alimentos,1897
+282,Trapo de Piso Bio,limpieza,1934
+283,Mayonesa Plus,alimentos,1971
+284,Trapo de Piso Plus,limpieza,2008
+285,Mayonesa Premium,alimentos,2045
+286,Trapo de Piso Premium,limpieza,2082
+287,Mayonesa Clásico,alimentos,2119
+288,Trapo de Piso Clásico,limpieza,2156
+289,Salsa de Tomate Aurelion,alimentos,2193
+290,Paño Microfibra Aurelion,limpieza,2230
+291,Salsa de Tomate Max,alimentos,2267
+292,Paño Microfibra Max,limpieza,2304
+293,Salsa de Tomate Ultra,alimentos,2341
+294,Paño Microfibra Ultra,limpieza,2378
+295,Salsa de Tomate Eco,alimentos,2415
+296,Paño Microfibra Eco,limpieza,2452
+297,Salsa de Tomate Bio,alimentos,2489
+298,Paño Microfibra Bio,limpieza,2526
+299,Salsa de Tomate Plus,alimentos,2563
+300,Paño Microfibra Plus,limpieza,2600
+301,Salsa de Tomate Premium,alimentos,2637
+302,Paño Microfibra Premium,limpieza,2674
+303,Salsa de Tomate Clásico,alimentos,2711
+304,Paño Microfibra Clásico,limpieza,2748
+305,Vinagre de Alcohol Aurelion,alimentos,2785
+306,Bolsas de Residuos Aurelion,limpieza,2822
+307,Vinagre de Alcohol Max,alimentos,2859
+308,Bolsas de Residuos Max,limpieza,2896
+309,Vinagre de Alcohol Ultra,alimentos,2933
+310,Bolsas de Residuos Ultra,limpieza,2970
+311,Vinagre de Alcohol Eco,alimentos,3007
+312,Bolsas de Residuos Eco,limpieza,3044
+313,Vinagre de Alcohol Bio,alimentos,3081
+314,Bolsas de Residuos Bio,limpieza,3118
+315,Vinagre de Alcohol Plus,alimentos,3155
+316,Bolsas de Residuos Plus,limpieza,3192
+317,Vinagre de Alcohol Premium,alimentos,3229
+318,Bolsas de Residuos Premium,limpieza,3266
+319,Vinagre de Alcohol Clásico,alimentos,3303
+320,Bolsas de Residuos Clásico,limpieza,3340

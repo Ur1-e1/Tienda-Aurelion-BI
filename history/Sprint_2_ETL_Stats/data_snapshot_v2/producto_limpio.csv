@@ -1,0 +1,101 @@
+id_producto,nombre_producto,categoria,precio_unitario
+1,Coca Cola 1.5L,alimentos,2347
+2,Pepsi 1.5L,limpieza,4973
+3,Sprite 1.5L,alimentos,4964
+4,Fanta Naranja 1.5L,limpieza,2033
+5,Agua Mineral 500ml,alimentos,4777
+6,Jugo de Naranja 1L,limpieza,4170
+7,Jugo de Manzana 1L,alimentos,3269
+8,Energética Nitro 500ml,limpieza,4218
+9,Yerba Mate Suave 1kg,alimentos,3878
+10,Yerba Mate Intensa 1kg,limpieza,4883
+11,Café Molido 250g,alimentos,2053
+12,Té Negro 20 saquitos,limpieza,570
+13,Té Verde 20 saquitos,alimentos,2383
+14,Leche Entera 1L,limpieza,1723
+15,Leche Descremada 1L,alimentos,2538
+16,Yogur Natural 200g,limpieza,4613
+17,Queso Cremoso 500g,alimentos,4834
+18,Queso Rallado 150g,limpieza,3444
+19,Manteca 200g,alimentos,3251
+20,Pan Lactal Blanco,limpieza,1571
+21,Pan Lactal Integral,alimentos,272
+22,Medialunas de Manteca,limpieza,2069
+23,Bizcochos Salados,alimentos,2380
+24,Galletitas Chocolate,limpieza,1305
+25,Galletitas Vainilla,alimentos,4015
+26,Alfajor Triple,limpieza,1001
+27,Alfajor Simple,alimentos,2502
+28,Papas Fritas Clásicas 100g,limpieza,936
+29,Papas Fritas Onduladas 100g,alimentos,1868
+30,Maní Salado 200g,limpieza,4875
+31,Mix de Frutos Secos 200g,alimentos,3409
+32,Chocolate Amargo 100g,limpieza,2234
+33,Chocolate con Leche 100g,alimentos,1255
+34,Turrón 50g,limpieza,503
+35,Barrita de Cereal 30g,alimentos,4430
+36,Dulce de Leche 400g,limpieza,2559
+37,Mermelada de Durazno 400g,alimentos,3196
+38,Mermelada de Frutilla 400g,limpieza,1584
+39,Helado Vainilla 1L,alimentos,469
+40,Helado Chocolate 1L,limpieza,1215
+41,Aceite de Girasol 1L,alimentos,860
+42,Vinagre de Alcohol 500ml,limpieza,1195
+43,Salsa de Tomate 500g,alimentos,887
+44,Arroz Largo Fino 1kg,limpieza,2979
+45,Fideos Spaghetti 500g,alimentos,745
+46,Lentejas Secas 500g,limpieza,3036
+47,Garbanzos 500g,alimentos,2939
+48,Porotos Negros 500g,limpieza,4462
+49,Harina de Trigo 1kg,alimentos,2512
+50,Azúcar 1kg,limpieza,727
+51,Sal Fina 500g,alimentos,1745
+52,Detergente Líquido 750ml,limpieza,2582
+53,Lavandina 1L,alimentos,1664
+54,Jabón de Tocador,limpieza,1592
+55,Shampoo 400ml,alimentos,1407
+56,Papel Higiénico x4,limpieza,2532
+57,Servilletas x100,alimentos,4520
+58,Caramelos Masticables,limpieza,4752
+59,Chicle Menta,alimentos,3612
+60,Chupetín,limpieza,4647
+61,Miel Pura 250g,alimentos,4982
+62,Stevia 100 sobres,limpieza,3848
+63,Granola 250g,alimentos,4337
+64,Avena Instantánea 250g,limpieza,3953
+65,Cerveza Rubia 1L,alimentos,2423
+66,Cerveza Negra 1L,limpieza,1533
+67,Vino Tinto Malbec 750ml,alimentos,4719
+68,Vino Blanco 750ml,limpieza,2684
+69,Sidra 750ml,alimentos,744
+70,Fernet 750ml,limpieza,4061
+71,Vodka 700ml,alimentos,508
+72,Ron 700ml,limpieza,3876
+73,Gin 700ml,alimentos,1561
+74,Whisky 750ml,limpieza,2953
+75,Licor de Café 700ml,alimentos,3204
+76,Pizza Congelada Muzzarella,limpieza,4286
+77,Empanadas Congeladas,alimentos,4778
+78,Verduras Congeladas Mix,limpieza,4289
+79,Hamburguesas Congeladas x4,alimentos,2420
+80,Helado de Frutilla 1L,limpieza,1981
+81,Aceitunas Verdes 200g,alimentos,2520
+82,Aceitunas Negras 200g,limpieza,2394
+83,Queso Untable 190g,alimentos,1830
+84,Queso Azul 150g,limpieza,1645
+85,Jugo en Polvo Naranja,alimentos,1856
+86,Jugo en Polvo Limón,limpieza,4090
+87,Sopa Instantánea Pollo,alimentos,1679
+88,Caldo Concentrado Carne,limpieza,2570
+89,Caldo Concentrado Verdura,alimentos,1003
+90,Toallas Húmedas x50,limpieza,2902
+91,Desodorante Aerosol,alimentos,4690
+92,Crema Dental 90g,limpieza,2512
+93,Cepillo de Dientes,alimentos,2142
+94,Hilo Dental,limpieza,1418
+95,Mascarilla Capilar,alimentos,1581
+96,Suavizante 1L,limpieza,4920
+97,Limpiavidrios 500ml,alimentos,872
+98,Desengrasante 500ml,limpieza,2843
+99,Esponjas x3,alimentos,2430
+100,Trapo de Piso,limpieza,4854
